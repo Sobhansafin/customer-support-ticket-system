@@ -6,7 +6,6 @@ import Footer from "./components/Footer/Footer";
 import TicketProvider from "./context/TicketContext";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import '@fortawesome/fontawesome-svg-core/styles.css'; 
 import "./App.css";
 
 export default function App() {
