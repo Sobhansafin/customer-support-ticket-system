@@ -1,0 +1,12 @@
+[
+  {"id":"1001","title":"Login Issues - Can't Access Account","description":"Customer is unable to log in to their account.","customer":"John Smith","priority":"High","status":"Open","createdAt":"2024-01-15"},
+  {"id":"1002","title":"Payment Failed - Card Declined","description":"Payment keeps failing despite sufficient balance.","customer":"Sarah Johnson","priority":"High","status":"Open","createdAt":"2024-01-16"},
+  {"id":"1003","title":"Unable to Download Invoice","description":"Customer cannot download their invoice.","customer":"Michael Brown","priority":"Medium","status":"In-Progress","createdAt":"2024-01-17"},
+  {"id":"1004","title":"Incorrect Billing Address","description":"Billing address shows wrong city.","customer":"Emily Davis","priority":"Low","status":"Open","createdAt":"2024-01-18"},
+  {"id":"1005","title":"App Crash on Launch","description":"App crashes immediately on Android 13.","customer":"David Wilson","priority":"High","status":"Open","createdAt":"2024-01-19"},
+  {"id":"1006","title":"Refund Not Processed","description":"Refund requested but not received.","customer":"Sophia Taylor","priority":"Medium","status":"In-Progress","createdAt":"2024-01-20"},
+  {"id":"1007","title":"Two-Factor Authentication Issue","description":"2FA codes not received.","customer":"James Anderson","priority":"High","status":"Open","createdAt":"2024-01-21"},
+  {"id":"1008","title":"Unable to Update Profile Picture","description":"Upload failed when updating profile picture.","customer":"Olivia Martin","priority":"Low","status":"Open","createdAt":"2024-01-22"},
+  {"id":"1009","title":"Subscription Auto-Renewal","description":"Auto-renew toggle not working.","customer":"Liam Thomas","priority":"Medium","status":"In-Progress","createdAt":"2024-01-23"},
+  {"id":"1010","title":"Missing Order Confirmation Email","description":"Confirmation email not received after order.","customer":"Isabella Garcia","priority":"Medium","status":"Open","createdAt":"2024-01-24"}
+]
