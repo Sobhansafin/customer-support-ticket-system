@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-5 gap-4  mb-[100px] ">
           <div>
             <h2 className="text-[20px] mb-5">CS — Ticket System</h2>
-            <p className="text-[16px] mt-3 text-gray-400">The CS—Ticket System presents a modern and highly organized dashboard
+            <p className="text-[16px] mt-3 text-gray-400 text-justify">The CS—Ticket System presents a modern and highly organized dashboard
                optimized for tracking customer support issues.   The design employs a striking contrast with a clean, white main layout set against vibrant gradient elements.</p>
           </div>
           <div>

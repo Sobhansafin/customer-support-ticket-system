@@ -73,7 +73,7 @@ export default function TicketCard({ ticket }) {
         <span className={`text-xs px-2 py-0.5 rounded-full border flex items-center gap-1 ${getStatusClass(ticket.status)} whitespace-nowrap`}>
 
           <span className={`h-2 w-2 rounded-full ${ticket.status.toLowerCase() === 'open' ? 'bg-green-500' :
-              ticket.status.toLowerCase() === 'in-progress' ? 'bg-yellow-500' : 'bg-gray-500'
+            ticket.status.toLowerCase() === 'in-progress' ? 'bg-yellow-500' : 'bg-gray-500'
             }`}></span>
           {ticket.status}
         </span>
