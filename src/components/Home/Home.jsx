@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className=" grid grid-cols-1 lg:grid-cols-3 gap-6 my-6">
       <div className="lg:col-span-2">
-        <h2 className="text-lg font-bold mb-4 text-left">Customer Tickets</h2>
+        <h2 className="text-xl font-semibold mb-4 text-left">Customer Tickets</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {tickets && tickets.length > 0 ? (
             tickets.map((ticket) => (
